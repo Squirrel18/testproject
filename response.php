@@ -7,8 +7,8 @@
     $key = $_GET["key"];
 
     if($key == "ABC") {
-	$file_dummy = fopen("dummy.json", "r") or die ("failed open file");
-    	$data = fread($file_dummy, filesize("dummy.json"));
+      $file_dummy = fopen("dummy.json", "r") or die ("failed open file");
+          $data = fread($file_dummy, filesize("dummy.json"));
 
 	// echo $data . "<br>";
     	/* $data_array = json_decode($data);

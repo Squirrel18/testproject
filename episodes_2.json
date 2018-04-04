@@ -1,0 +1,36 @@
+{
+    "return": "true",
+    "status": "200",
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "plot": "N/A",
+            "rate": "0",
+            "episode": "1"
+        },
+        {
+            "title": "Episode 2",
+            "plot": "N/A",
+            "rate": "0",
+            "episode": "2"
+        },
+        {
+            "title": "Episode 3",
+            "plot": "N/A",
+            "rate": "0",
+            "episode": "3"
+        },
+        {
+            "title": "Episode 4",
+            "plot": "N/A",
+            "rate": "0",
+            "episode": "4"
+        },
+        {
+            "title": "Episode 5",
+            "plot": "N/A",
+            "rate": "0",
+            "episode": "5"
+        }
+    ]
+}
